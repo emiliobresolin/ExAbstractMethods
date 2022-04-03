@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ExAbstractMethods\ExAbstractMethods\bin\Debug\net5.0\ExAbstractMethods.exe
+C:\Users\user\source\repos\ExAbstractMethods\ExAbstractMethods\bin\Debug\net5.0\ExAbstractMethods.deps.json
+C:\Users\user\source\repos\ExAbstractMethods\ExAbstractMethods\bin\Debug\net5.0\ExAbstractMethods.runtimeconfig.json
+C:\Users\user\source\repos\ExAbstractMethods\ExAbstractMethods\bin\Debug\net5.0\ExAbstractMethods.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExAbstractMethods\ExAbstractMethods\bin\Debug\net5.0\ExAbstractMethods.dll
+C:\Users\user\source\repos\ExAbstractMethods\ExAbstractMethods\bin\Debug\net5.0\ref\ExAbstractMethods.dll
+C:\Users\user\source\repos\ExAbstractMethods\ExAbstractMethods\bin\Debug\net5.0\ExAbstractMethods.pdb
+C:\Users\user\source\repos\ExAbstractMethods\ExAbstractMethods\obj\Debug\net5.0\ExAbstractMethods.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExAbstractMethods\ExAbstractMethods\obj\Debug\net5.0\ExAbstractMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ExAbstractMethods\ExAbstractMethods\obj\Debug\net5.0\ExAbstractMethods.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExAbstractMethods\ExAbstractMethods\obj\Debug\net5.0\ExAbstractMethods.AssemblyInfo.cs
+C:\Users\user\source\repos\ExAbstractMethods\ExAbstractMethods\obj\Debug\net5.0\ExAbstractMethods.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExAbstractMethods\ExAbstractMethods\obj\Debug\net5.0\ExAbstractMethods.dll
+C:\Users\user\source\repos\ExAbstractMethods\ExAbstractMethods\obj\Debug\net5.0\ref\ExAbstractMethods.dll
+C:\Users\user\source\repos\ExAbstractMethods\ExAbstractMethods\obj\Debug\net5.0\ExAbstractMethods.pdb
+C:\Users\user\source\repos\ExAbstractMethods\ExAbstractMethods\obj\Debug\net5.0\ExAbstractMethods.genruntimeconfig.cache
